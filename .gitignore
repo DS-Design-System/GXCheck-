@@ -1,0 +1,17 @@
+# Documentación de trabajo: se versiona solo el README
+*.md
+!README.md
+
+# Memoria local del agente: no se versiona
+.memory/
+
+# Residuos de ejecución
+app.err
+app.out
+*.log
+
+__pycache__/
+*.pyc
+
+# Configuración local del IDE (PyCharm)
+.idea/
