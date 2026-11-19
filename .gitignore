@@ -1,6 +1,9 @@
 # Documentación de trabajo: se versiona solo el README
 *.md
 !README.md
+MEMORIA.md
+estado.md
+estado_completo.md
 
 # Memoria local del agente: no se versiona
 .memory/

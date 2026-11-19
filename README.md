@@ -438,7 +438,6 @@ no está OK, 0 si todo está OK — así un pipeline puede cortar.
 | `gxcheck.py` | Motor de comparación + diagnóstico de build. También CLI. |
 | `generar.py` | Regeneración de pendientes por MSBuild + chequeo de esquema. |
 | `README.md` | Este documento. |
-| `MEMORIA.md` | Detalle técnico: trucos de la KB, formato del log, decisiones de implementación. |
 | `estado.md` | Estado de la última comparación (lo lee el agente). |
 | `estado_completo.md` | Detalle completo por objeto. |
 | `Icono.png` / `Icono.ico` | Icono de la ventana y logo del encabezado (el `.ico` se rearma solo desde el PNG). |
